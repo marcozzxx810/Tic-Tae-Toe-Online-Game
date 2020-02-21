@@ -7,7 +7,9 @@ This is a server sided game , which prevent player cheat by editing memory, but 
 **However this version of the game only allow to play within the same computer, but the server side already support two computer situation, I will release that soon** 
 
 **Requirement**
+
 Java 1.8.0+ ( only tested on mac with Java 1.8.0)
+
 Please make sure localhost:5001 is avaliable
 
 
